@@ -1,0 +1,245 @@
+Country,ISO,Number of GEO Units,Number of ADM1 Units,Number of ADM2 Units,Number of Monthly Records - Unique IP,Number of Monthly Records - Latency,Average Records - Unique IP,Average Records - Latency
+Afghanistan,AFG,7,5,7,21,21,3,3
+Albania,ALB,13,9,13,37,32,2.85,2.46
+Algeria,DZA,30,21,30,80,78,2.67,2.6
+American Samoa,ASM,1,1,1,3,2,3,2
+Andorra,AND,4,4,Only ADM1,12,10,3,2.5
+Angola,AGO,9,3,9,27,22,3,2.44
+Anguilla,AIA,1,Only ADM0,Only ADM0,3,3,3,3
+Antigua and Barbuda,ATG,4,4,Only ADM1,8,7,2,1.75
+Argentina,ARG,359,24,359,960,920,2.67,2.56
+Armenia,ARM,8,8,Only ADM1,24,17,3,2.13
+Aruba,ABW,1,Only ADM0,Only ADM0,3,3,3,3
+Australia,AUS,598,8,598,1729,1646,2.89,2.75
+Austria,AUT,99,9,99,297,247,3,2.49
+Azerbaijan,AZE,7,7,Only ADM1,21,19,3,2.71
+Bahamas,BHS,7,7,Only ADM1,16,16,2.29,2.29
+Bahrain,BHR,5,5,Only ADM1,15,10,3,2
+Bangladesh,BGD,18,6,18,51,48,2.83,2.67
+Barbados,BRB,6,6,Only ADM1,14,14,2.33,2.33
+Belarus,BLR,53,6,53,152,146,2.87,2.75
+Belgium,BEL,11,11,11,42,34,3.82,3.09
+Belize,BLZ,6,6,Only ADM1,16,16,2.67,2.67
+Benin,BEN,2,2,2,6,6,3,3
+Bermuda,BMU,7,7,Only ADM1,15,15,2.14,2.14
+Bhutan,BTN,2,1,2,6,5,3,2.5
+Bolivia,BOL,33,9,33,99,98,3,2.97
+"Bonaire, Saint Eustatius and Saba",BES,1,Only ADM0,Only ADM0,3,3,3,3
+Bosnia and Herzegovina,BIH,16,3,16,48,34,3,2.13
+Botswana,BWA,1,1,1,3,3,3,3
+Brazil,BRA,2938,27,2938,5669,5244,1.93,1.78
+British Indian Ocean Territory,IOT,1,Only ADM0,Only ADM0,3,2,3,2
+British Virgin Islands,VGB,1,Only ADM0,Only ADM0,3,3,3,3
+Brunei,BRN,6,2,6,18,16,3,2.67
+Bulgaria,BGR,142,28,142,422,353,2.97,2.49
+Burkina Faso,BFA,4,4,4,12,12,3,3
+Burundi,BDI,2,1,2,6,6,3,3
+Cambodia,KHM,11,8,11,32,29,2.91,2.64
+Cameroon,CMR,5,4,5,15,14,3,2.8
+Canada,CAN,261,13,261,747,736,2.86,2.82
+Cape Verde,CPV,2,2,Only ADM1,6,5,3,2.5
+Cayman Islands,CYM,4,4,Only ADM1,8,8,2,2
+Central African Republic,CAF,2,2,2,6,6,3,3
+Chad,TCD,2,2,2,6,6,3,3
+Chile,CHL,39,13,39,109,107,2.79,2.74
+China,CHN,340,31,340,1009,752,2.97,2.21
+Christmas Island,CXR,1,Only ADM0,Only ADM0,3,3,3,3
+Cocos Islands,CCK,1,Only ADM0,Only ADM0,3,3,3,3
+Colombia,COL,229,30,229,461,451,2.01,1.97
+Comoros,COM,2,2,Only ADM1,6,6,3,3
+Cook Islands,COK,1,Only ADM0,Only ADM0,3,3,3,3
+Costa Rica,CRI,53,7,53,142,141,2.68,2.66
+Croatia,HRV,158,21,158,427,416,2.7,2.63
+Cuba,CUB,55,15,55,141,141,2.56,2.56
+Curascao,CUW,1,Only ADM0,Only ADM0,3,3,3,3
+Cyprus,CYP,6,6,Only ADM1,18,13,3,2.17
+Czech Republic,CZE,98,14,98,294,199,3,2.03
+Cote d'Ivoire,CIV,4,4,4,12,10,3,2.5
+Democratic Republic of the Congo,COD,8,7,8,23,22,2.88,2.75
+Denmark,DNK,231,14,231,653,612,2.83,2.65
+Djibouti,DJI,1,1,1,3,3,3,3
+Dominica,DMA,2,2,Only ADM1,4,4,2,2
+Dominican Republic,DOM,35,21,35,88,87,2.51,2.49
+East Timor,TLS,1,1,1,3,2,3,2
+Ecuador,ECU,143,21,143,385,385,2.69,2.69
+Egypt,EGY,23,23,Only ADM1,69,67,3,2.91
+El Salvador,SLV,45,13,45,67,67,1.49,1.49
+Equatorial Guinea,GNQ,1,1,Only ADM1,3,3,3,3
+Eritrea,ERI,2,2,2,6,6,3,3
+Estonia,EST,38,14,38,108,103,2.84,2.71
+Ethiopia,ETH,7,5,7,19,19,2.71,2.71
+Falkland Islands,FLK,1,Only ADM0,Only ADM0,3,3,3,3
+Faroe Islands,FRO,2,2,2,4,4,2,2
+Fiji,FJI,2,2,2,6,6,3,3
+Finland,FIN,21,5,21,63,52,3,2.48
+France,FRA,96,22,96,288,161,3,1.68
+French Guiana,GUF,2,1,2,6,6,3,3
+French Polynesia,PYF,1,Only ADM0,Only ADM0,3,3,3,3
+Gabon,GAB,3,3,3,9,9,3,3
+Gambia,GMB,2,1,2,6,6,3,3
+Georgia,GEO,15,11,15,45,40,3,2.67
+Germany,DEU,40,16,40,120,70,3,1.75
+Ghana,GHA,9,6,9,27,27,3,3
+Gibraltar,GIB,1,Only ADM0,Only ADM0,3,3,3,3
+Greece,GRC,46,13,46,137,125,2.98,2.72
+Greenland,GRL,8,3,8,21,21,2.63,2.63
+Grenada,GRD,2,2,Only ADM1,6,6,3,3
+Guadeloupe,GLP,8,2,8,22,21,2.75,2.63
+Guam,GUM,6,6,Only ADM1,18,15,3,2.5
+Guatemala,GTM,73,21,73,173,173,2.37,2.37
+Guernsey,GGY,1,Only ADM0,Only ADM0,3,3,3,3
+Guinea,GIN,3,3,3,7,7,2.33,2.33
+Guinea-Bissau,GNB,1,1,1,3,3,3,3
+Guyana,GUY,4,2,4,10,9,2.5,2.25
+Haiti,HTI,11,7,11,14,14,1.27,1.27
+Honduras,HND,46,15,46,101,99,2.2,2.15
+Hong Kong,HKG,18,18,Only ADM1,54,36,3,2
+Hungary,HUN,168,20,168,504,421,3,2.51
+Iceland,ISL,19,8,19,53,53,2.79,2.79
+India,IND,513,34,513,1513,1407,2.95,2.74
+Indonesia,IDN,169,32,169,485,422,2.87,2.5
+Iran,IRN,185,30,185,549,520,2.97,2.81
+Iraq,IRQ,23,13,23,67,62,2.91,2.7
+Ireland,IRL,26,26,Only ADM1,78,65,3,2.5
+Isle of Man,IMN,1,Only ADM0,Only ADM0,3,2,3,2
+Israel,ISR,7,7,Only ADM1,21,18,3,2.57
+Italy,ITA,110,20,110,330,209,3,1.9
+Jamaica,JAM,12,12,Only ADM1,32,31,2.67,2.58
+Japan,JPN,577,47,577,1686,1628,2.92,2.82
+Jersey,JEY,1,Only ADM0,Only ADM0,3,3,3,3
+Jordan,JOR,11,6,11,33,29,3,2.64
+Kazakhstan,KAZ,163,14,163,482,443,2.96,2.72
+Kenya,KEN,7,6,7,20,19,2.86,2.71
+Kiribati,KIR,1,Only ADM0,Only ADM0,3,3,3,3
+Kosovo,KO-,19,7,19,57,52,3,2.74
+Kuwait,KWT,5,5,Only ADM1,15,14,3,2.8
+Kyrgyzstan,KGZ,6,6,Only ADM1,18,15,3,2.5
+Laos,LAO,6,3,6,16,14,2.67,2.33
+Latvia,LVA,11,5,11,33,25,3,2.27
+Lebanon,LBN,14,6,14,42,38,3,2.71
+Lesotho,LSO,2,2,Only ADM1,6,6,3,3
+Liberia,LBR,1,1,1,3,3,3,3
+Libya,LBY,5,5,Only ADM1,14,14,2.8,2.8
+Liechtenstein,LIE,9,9,Only ADM1,26,23,2.89,2.56
+Lithuania,LTU,37,10,37,109,90,2.95,2.43
+Luxembourg,LUX,13,3,13,35,28,2.69,2.15
+Macao,MAC,1,Only ADM0,Only ADM0,3,0,3,0
+Macedonia,MKD,17,8,17,49,36,2.88,2.12
+Madagascar,MDG,6,5,6,18,17,3,2.83
+Malawi,MWI,3,3,3,9,8,3,2.67
+Malaysia,MYS,45,13,45,128,121,2.84,2.69
+Maldives,MDV,1,Only ADM0,Only ADM0,3,1,3,1
+Mali,MLI,1,1,1,3,2,3,2
+Malta,MLT,1,Only ADM0,Only ADM0,3,2,3,2
+Marshall Islands,MHL,1,Only ADM0,Only ADM0,3,2,3,2
+Martinique,MTQ,3,2,3,9,9,3,3
+Mauritania,MRT,1,1,1,3,3,3,3
+Mauritius,MUS,5,5,Only ADM1,15,13,3,2.6
+Mayotte,MYT,1,1,Only ADM1,3,2,3,2
+Mexico,MEX,239,32,239,609,504,2.55,2.11
+Micronesia,FSM,1,1,Only ADM1,3,2,3,2
+Moldova,MDA,20,20,Only ADM1,60,46,3,2.3
+Monaco,MCO,1,Only ADM0,Only ADM0,3,2,3,2
+Mongolia,MNG,2,2,2,6,5,3,2.5
+Montenegro,MNE,7,7,Only ADM1,19,17,2.71,2.43
+Montserrat,MSR,1,Only ADM0,Only ADM0,3,3,3,3
+Morocco,MAR,25,13,25,71,63,2.84,2.52
+Mozambique,MOZ,6,5,6,16,14,2.67,2.33
+Myanmar,MMR,11,9,11,32,31,2.91,2.82
+Namibia,NAM,3,2,3,9,8,3,2.67
+Nauru,NRU,1,1,Only ADM1,3,2,3,2
+Nepal,NPL,11,5,11,32,29,2.91,2.64
+Netherlands,NLD,488,12,488,1464,1409,3,2.89
+New Caledonia,NCL,2,1,2,6,5,3,2.5
+New Zealand,NZL,54,15,54,160,148,2.96,2.74
+Nicaragua,NIC,14,8,14,22,22,1.57,1.57
+Niger,NER,2,2,2,6,6,3,3
+Nigeria,NGA,57,22,57,158,155,2.77,2.72
+Niue,NIU,1,Only ADM0,Only ADM0,3,3,3,3
+Norfolk Island,NFK,1,Only ADM0,Only ADM0,3,3,3,3
+North Korea,PRK,5,4,5,15,14,3,2.8
+Northern Mariana Islands,MNP,1,1,Only ADM1,3,2,3,2
+Norway,NOR,281,19,281,826,785,2.94,2.79
+Oman,OMN,5,2,5,15,10,3,2
+Pakistan,PAK,18,5,18,53,50,2.94,2.78
+Palau,PLW,2,2,Only ADM1,4,3,2,1.5
+Palestina,PSE,12,2,12,36,32,3,2.67
+Panama,PAN,27,10,27,59,58,2.19,2.15
+Papua New Guinea,PNG,7,6,7,18,16,2.57,2.29
+Paraguay,PRY,35,13,35,84,80,2.4,2.29
+Peru,PER,56,24,56,145,143,2.59,2.55
+Philippines,PHL,265,66,265,720,701,2.72,2.65
+Pitcairn Islands,PCN,1,Only ADM0,Only ADM0,2,2,2,2
+Poland,POL,373,16,373,1119,852,3,2.28
+Portugal,PRT,181,20,181,533,514,2.94,2.84
+Puerto Rico,PRI,41,41,Only ADM1,113,112,2.76,2.73
+Qatar,QAT,6,6,Only ADM1,18,16,3,2.67
+Republic of Congo,COG,3,3,3,7,6,2.33,2
+Reunion,REU,8,4,8,24,22,3,2.75
+Romania,ROU,41,41,Only ADM1,123,38,3,0.93
+Russia,RUS,815,87,815,2288,1925,2.81,2.36
+Rwanda,RWA,3,1,3,9,8,3,2.67
+Saint Helena,SHN,1,1,Only ADM1,3,3,3,3
+Saint Kitts and Nevis,KNA,3,3,Only ADM1,9,9,3,3
+Saint Lucia,LCA,3,3,Only ADM1,9,9,3,3
+Saint Pierre and Miquelon,SPM,2,2,Only ADM1,5,5,2.5,2.5
+Saint Vincent and the Grenadines,VCT,3,3,Only ADM1,9,8,3,2.67
+Saint-Barthélemy,BLM,1,Only ADM0,Only ADM0,3,3,3,3
+Saint-Martin,MAF,1,Only ADM0,Only ADM0,3,3,3,3
+Samoa,WSM,4,3,4,10,9,2.5,2.25
+San Marino,SMR,6,6,Only ADM1,18,16,3,2.67
+Sao Tome and Principe,STP,1,1,Only ADM1,3,2,3,2
+Saudi Arabia,SAU,12,12,Only ADM1,36,30,3,2.5
+Senegal,SEN,8,6,8,24,24,3,3
+Serbia,SRB,118,25,118,344,317,2.92,2.69
+Seychelles,SYC,1,Only ADM0,Only ADM0,3,1,3,1
+Sierra Leone,SLE,2,2,2,5,3,2.5,1.5
+Singapore,SGP,1,Only ADM0,Only ADM0,3,3,3,3
+Sint Maarten,SMX,1,Only ADM0,Only ADM0,3,3,3,3
+Slovakia,SVK,73,8,73,219,184,3,2.52
+Slovenia,SVN,159,12,159,475,462,2.99,2.91
+Solomon Islands,SLB,2,2,Only ADM1,6,5,3,2.5
+Somalia,SOM,6,6,6,18,18,3,3
+South Africa,ZAF,82,9,82,237,215,2.89,2.62
+South Georgia and the South Sandwich Islands,SGS,1,Only ADM0,Only ADM0,3,3,3,3
+South Korea,KOR,228,16,228,684,360,3,1.58
+South Sudan,SSD,1,1,1,3,3,3,3
+Spain,ESP,51,18,51,153,90,3,1.76
+Sri Lanka,LKA,21,10,21,48,46,2.29,2.19
+Sudan,SDN,5,4,5,14,13,2.8,2.6
+Suriname,SUR,3,1,3,9,9,3,3
+Svalbard and Jan Mayen,SJM,1,1,Only ADM1,3,3,3,3
+Swaziland,SWZ,2,2,Only ADM1,6,6,3,3
+Sweden,SWE,286,21,286,858,775,3,2.71
+Switzerland,CHE,160,26,160,477,449,2.98,2.81
+Syria,SYR,5,3,5,15,12,3,2.4
+Taiwan,TWN,21,3,21,63,35,3,1.67
+Tajikistan,TJK,2,2,2,6,4,3,2
+Tanzania,TZA,12,8,12,36,32,3,2.67
+Thailand,THA,89,31,89,259,237,2.91,2.66
+Togo,TGO,1,1,1,3,3,3,3
+Tokelau,TKL,1,1,Only ADM1,3,3,3,3
+Tonga,TON,1,1,Only ADM1,3,2,3,2
+Trinidad and Tobago,TTO,9,9,Only ADM1,23,23,2.56,2.56
+Tunisia,TUN,9,5,9,24,23,2.67,2.56
+Turkey,TUR,442,81,442,1246,1150,2.82,2.6
+Turkmenistan,TKM,2,2,Only ADM1,5,4,2.5,2
+Turks and Caicos Islands,TCA,4,4,Only ADM1,9,9,2.25,2.25
+Tuvalu,TUV,2,2,Only ADM1,4,4,2,2
+Uganda,UGA,5,4,5,15,15,3,3
+Ukraine,UKR,276,27,276,821,635,2.97,2.3
+United Arab Emirates,ARE,7,7,Only ADM1,21,17,3,2.43
+United Kingdom,GBR,189,4,189,567,482,3,2.55
+United States,USA,2852,51,2852,8154,8016,2.86,2.81
+Uruguay,URY,11,9,11,24,22,2.18,2
+Uzbekistan,UZB,12,8,12,36,31,3,2.58
+Vanuatu,VUT,3,3,Only ADM1,8,7,2.67,2.33
+Vatican City,VAT,1,Only ADM0,Only ADM0,3,2,3,2
+Venezuela,VEN,155,23,155,415,412,2.68,2.66
+Vietnam,VNM,36,8,36,101,92,2.81,2.56
+"Virgin Islands, U.S.",VIR,3,3,Only ADM1,9,9,3,3
+Wallis and Futuna,WLF,1,1,1,3,3,3,3
+Yemen,YEM,8,4,8,22,22,2.75,2.75
+Zambia,ZMB,6,4,6,16,16,2.67,2.67
+Zimbabwe,ZWE,4,4,4,12,10,3,2.5
+Aaland,ALA,4,4,Only ADM1,11,10,2.75,2.5
